@@ -1,10 +1,10 @@
 let questions = [
     {
-      text: `What is the first book of the Old Testament?
-        A. Leviticus
-        B. Numbers
-        C. Genesis
-        D. Exodus`,
+      text: `Where does Michael Scott move to start his new life with Holly?
+        A. New York, New York
+        B. Akron, Ohio
+        C. Boulder, Colorado
+        D. Salt Lake City, Utah`,
       correctAnswer: "C"
     },
     {
